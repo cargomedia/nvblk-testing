@@ -44,7 +44,7 @@
 div.float-ad {
 box-sizing: border-box;
 position: fixed;
-z-index: 99999999;
+z-index: 9998;
 ${config.pos.x}: 1rem;
 ${config.pos.y}: 1.6rem;
 display: flex;
